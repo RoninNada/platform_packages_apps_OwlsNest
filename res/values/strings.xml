@@ -118,13 +118,6 @@
     <string name="clock_date_style_uppercase">Uppercase</string>
     <string name="clock_date_format_custom">Custom java format</string>
 
-    <!-- Statusbar logo -->
-    <string name="status_bar_logo_title">Kronic Logo</string>
-    <string name="status_bar_logo_dialog_title">Kronic logo position</string>
-    <string name="status_bar_logo_disabled">Disabled</string>
-    <string name="status_bar_logo_left">Left</string>
-    <string name="status_bar_logo_right">Right</string>
-
     <!-- Carrier Label -->
     <string name="carrier_category">Carrier label</string>
     <string name="carrier_options">Select display locations</string>
